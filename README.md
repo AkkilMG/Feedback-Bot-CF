@@ -3,7 +3,7 @@
 <p style="text-align:center;">Hey, This Is <a href="/">Feedback Bot</a> Made By Using JavaScript And Made to deploy on cloudflare by <b><a href="https://github.com/AkkilMG/AkkilMG/">AkKiL</a></b> 😇.
 </p>
 
-  This Bot Works Like Independent @LivegramBot, But With Extra Command And Even Logs Of The User..
+  This Bot Works Like Independent @LivegramBot, But With Logs Of The User..
 
 ## 👽 Variables
 ```javascript
